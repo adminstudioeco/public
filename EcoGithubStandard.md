@@ -1,6 +1,6 @@
 # Standard per GitHub
 - Andare sul sito: https://github.com/
-- Essettuare `Sign Up`
+- Effettuare `Sign Up`
 - Usare la mail aziendale quando è richiesta una mail
 - Utilizzare come userid o login la prima parte della mail aziendale senza i punti la chiocciola e senza i caratteri `.it` (Es: `galvianistudioeco`)
 - Comunicare a `Giuliano` il proprio userid appena creato.
